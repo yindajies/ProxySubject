@@ -1,0 +1,7 @@
+D:\VSProject\ProxyPattem\ProxyPattem\bin\Debug\ProxyPattem.exe.config
+D:\VSProject\ProxyPattem\ProxyPattem\bin\Debug\ProxyPattem.exe
+D:\VSProject\ProxyPattem\ProxyPattem\bin\Debug\ProxyPattem.pdb
+D:\VSProject\ProxyPattem\ProxyPattem\obj\Debug\ProxyPattem.csprojResolveAssemblyReference.cache
+D:\VSProject\ProxyPattem\ProxyPattem\obj\Debug\ProxyPattem.csproj.CoreCompileInputs.cache
+D:\VSProject\ProxyPattem\ProxyPattem\obj\Debug\ProxyPattem.exe
+D:\VSProject\ProxyPattem\ProxyPattem\obj\Debug\ProxyPattem.pdb
